@@ -1,0 +1,3 @@
+1;Carlos Perez;1012345678;carlos@correo.com;3001112233
+2;Maria Gomez;1023456789;maria@correo.com;3104445566
+3;Andres Rojas;1034567890;andres@correo.com;3207778899
